@@ -1,0 +1,8 @@
+Run Homebrew-4.3.24.pkg
+install that
+run this command: 
+brew install --cask --no-quarantine wine-stable
+run the wine app from launchpad
+go into the directory of the game you want from that terminal window
+run this command:
+wine (carnivores 1: HUNTSOFT carnivores 2: CARN2 carnivores 3: IceAge).exe
